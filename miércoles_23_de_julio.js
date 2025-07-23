@@ -11,5 +11,6 @@ console.log(edad2 > 60 || esDiscapacitado ? "Tiene descuento" : "No tiene descue
 
 //EJERCICIO 3
 let nota = 8
-console.log(nota >= 7 ? "Aprobó" : "No aprobó")
+let pasoRecuperacion = true
+console.log(nota >= 7 || pasoRecuperacion = true ? "Aprobó" : "No aprobó")
 
