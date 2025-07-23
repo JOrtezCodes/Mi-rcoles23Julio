@@ -1,7 +1,8 @@
 //CLASE MIÉRCOLES 23 DE JULIO
 //EJERCICIO 1
 let edad = 18
-console.log(edad >= 18 ? "Puede entrar al cine" : "No puede entrar")
+let esEntradaValida = true
+console.log(edad >= 18 && esEntradaValida = true ? "Puede entrar al cine" : "No puede entrar")
 
 //EJERCICIO 2
 let edad2 = 25
